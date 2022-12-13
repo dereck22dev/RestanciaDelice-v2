@@ -82,9 +82,9 @@ let lastProductCode = 0;
 
 /**
  * Groups the functionalities of adding and products deletting
- * @param1 {string} product description
- * @param2 {number} Product Quantity
- * @param3 {number} produit price
+ * @param1 {String} product description
+ * @param2 {Number} Product Quantity
+ * @param3 {Number} produit price
  */
 
 function cartManagement(fdescription, fquantity, fprice) {

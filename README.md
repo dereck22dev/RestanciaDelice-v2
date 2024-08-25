@@ -21,7 +21,7 @@
 👀 **Explorez le projet et contribuez ici :** [GitHub Repository](https://github.com/dereck22dev/RestanciaDelice-v2)
 
 
- 👀 **Explorez le site web ici :** [Digital-S](https://dereck22dev.github.io/RestanciaDelice-v2/public/html/index.html)
+ 👀 **Explorez le site web ici :** [RestanciaDelice](https://dereck22dev.github.io/RestanciaDelice-v2/public/html/index.html)
 
 ### 🌟 Merci d'avoir consulté ce projet ! N'oubliez pas de laisser une ⭐ si vous l'appréciez !
 
